@@ -5,7 +5,7 @@ Terimakasih Telah Melakukan Pembayaran Atas Pesanan Anda, Kami Akan Segera Mengi
 Terimakasih Telah Mempercayai Kami dan Telah Melestarikan Budaya Batak. <br>
 Horas !
 
-@component('mail::button', ['url' => 'http://meatnauli.site/'])
+@component('mail::button', ['url' => 'https://meatnauli.gahasapurba.com/'])
 Kembali Ke Website
 @endcomponent
 
