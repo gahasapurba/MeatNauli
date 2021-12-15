@@ -3,7 +3,7 @@
 
 Terimakasih Telah Berlangganan,Tetap Nantikan Informasi-Informasi Dari Kami!
 
-@component('mail::button', ['url' => 'http://meatnauli.site/'])
+@component('mail::button', ['url' => 'https://meatnauli.gahasapurba.com/'])
 Kembali Ke Website
 @endcomponent
 
